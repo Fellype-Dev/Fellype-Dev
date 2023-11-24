@@ -40,6 +40,9 @@
 &nbsp;
 &nbsp;
 
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={Fellype-Dev}
+
 ## Contacts:
 
 <div> 
