@@ -34,7 +34,6 @@
 &nbsp;
 &nbsp;
 
-<div  align="center" style="margin-bottom:100px">
 <img width=55% align="Left"  src="https://github-readme-streak-stats.herokuapp.com?user=Fellype-Dev&theme=radical&mode=weekly" />
 
 &nbsp;
